@@ -1,0 +1,15 @@
+a=float(input("Enter first number: "))
+b=float(input("Enter second number: "))
+
+#Relational Operators(==,<,<=,>,>=,!=)
+print(a==b)
+print(a<b)
+print(a<=b)
+print(a>b)
+print(a>=b)
+print(a!=b)
+
+#Logical operators(and, or, not)
+print(a<10 and b>10)
+print(a<10 or b>10)
+print (not a<10)
